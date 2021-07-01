@@ -1,4 +1,4 @@
-const url = 'http://127.0.0.1:5500/js/news.json';
+const url = '/js/news.json';
 
 const appendIt = (theID) => {
     fetch(url, {
